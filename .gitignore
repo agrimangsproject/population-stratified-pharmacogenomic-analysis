@@ -1,0 +1,9 @@
+# Large 1000 Genomes files
+*.vcf
+*.vcf.gz
+*.tbi
+*.csi
+
+# Temporary files
+temp*
+*.tar.gz
